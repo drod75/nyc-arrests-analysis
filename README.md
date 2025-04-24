@@ -26,6 +26,14 @@
 ## Introduction
 This project was made for the Computer Science 3225 Class Data Tools and Algorithms at Brooklyn College, taught by Professor Matthew Mcneill, the project aims to create a portfolio level analysis project aimed at having us use real world analytical techniques taught in class.
 
+There are many different folders in this repository and the folders in order are:
+
+- Datasets
+  - External, has the file that will be used for mapping
+  - Processed, has the file that is the cleaned arrests data
+  - Raw, the file that is the cleaned arrests data
+- Notebooks, has the Jupyer Notebook files used for the project
+
 ## Dataset Used
 The dataset I chose to do complex analysis on was the NYC Arrests year to date Dataset provided on NYC Open data:
 - Dataset Link: [Arrests Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data)
